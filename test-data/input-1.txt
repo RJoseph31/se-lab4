@@ -1,0 +1,4 @@
+# Hajó inicializálása: 10 torpedó mindkettőbe és 0% hibaarány
+GT4500,10,0,10,0
+# Kilövés ALL módban
+TORPEDO,ALL

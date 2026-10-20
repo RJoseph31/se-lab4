@@ -1,0 +1,4 @@
+# Hajó inicializálása: 0 elsődleges (üres), 10 másodlagos, 0% hibaarány
+GT4500,0,0,10,0
+# Kilövés ALL módban
+TORPEDO,ALL
