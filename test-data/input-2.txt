@@ -1,0 +1,6 @@
+# Hajó inicializálása: üres az elsődleges, a másodlagosban van egy torpedó
+GT4500,0,0,1,0
+# Első kilövésnél itt még sikeresnek kell hogy legyen, mert van a másodlagosba
+TORPEDO,SINGLE
+# Második kilövésnél üres mindkettő, hibásnak kell lennie
+TORPEDO,SINGLE
